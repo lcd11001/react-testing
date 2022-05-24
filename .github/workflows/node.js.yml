@@ -34,7 +34,7 @@ jobs:
       # Using npm ci is generally faster than running npm install
       run: |
         cd my-app
-        npm run bulid
+        npm ci
     - name: Build the app
       run: |
         cd my-app
