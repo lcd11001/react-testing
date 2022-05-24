@@ -7,7 +7,7 @@
     - write end-to-end visual tests, 
     - and develop comprehensive test strategies. 
 
-- You will also learn how to use testing tools such as Happo.io, Cypress, and Jest
+- You will also learn how to use testing tools such as Happo.io, Cypress, and Jest.
 
 
 [1]: https://www.youtube.com/watch?v=8vfQ6SWBZ-U
